@@ -1,0 +1,29 @@
+variables start with alphabets,it doesnt start with numbers.
+variables are name stored locations
+variabls cannot have space between
+underscore is allowed , but not any special character is allowed.
+
+
+A class is a blueprint for the object. a class is declared by the use of the class keyyword.
+The data or vairables declared within a class are called instance variables because each instance of
+the class contains its own copy of these variables.
+the code is contained within methods.Collectively, the methods and variables defined within a class are called members of the class.
+From a programming point of view, a class is basically user-defined data types that act as a template for creating objects of the identical type. it represents the common properties
+and actions(functions) of an object.
+
+the syntax to create a class in java is given below.
+
+.class <class_name>{
+  field;
+  method;
+}
+
+eg:-Consider you have iphone,Samsung,Sony devices and you want to represent them in java. Here,all the phones have some properties like brand,color,weight,etc.But the type of all the phones is Mobile
+And here blueprint can be a mobile because they all area type of mobile.So mobile is a class that can 
+
+
+The object is an instance of a class(also called runtime entity)
+
+When you create a class,you are creating 
+ 
+

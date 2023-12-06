@@ -1,0 +1,20 @@
+class Person
+  {
+//private variable
+     private String name;
+  }
+
+public class Data{
+   public static void main(String[] main){
+   
+    //create an object of Data
+    Person d = new Person();
+   //access private variable and field from anotheir class
+   d.name ="Ganesha";
+}
+}
+
+error name has private accss in person
+    d.name="Ganesha";
+
+
